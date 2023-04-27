@@ -1,1 +1,6 @@
-// Specific CSS for your home-page
+.box {
+  border-radius: 2px !important;
+  border-color: $yellow !important;
+  border-width: 20px;
+  background-color: $yellow;
+}
